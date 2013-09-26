@@ -1,0 +1,6 @@
+Revision history for Perl extension Benchmark::OO.
+
+0.01  Thu Sep 26 18:32:22 2013
+	- original version; created by h2xs 1.23 with options
+		-A -X -n Benchmark::OO
+
