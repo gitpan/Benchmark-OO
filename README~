@@ -1,4 +1,4 @@
-Benchmark-OO version 0.02
+Benchmark-OO version 0.01
 =========================
 
 The README is used to introduce the module and provide instructions on
@@ -28,6 +28,8 @@ This module requires these other modules and libraries:
   Time::HiRes
 
 COPYRIGHT AND LICENCE
+
+Put the correct copyright and licence information here.
 
 Copyright (C) 2013 by Vipin Singh
 

@@ -4,7 +4,3 @@ Revision history for Perl extension Benchmark::OO.
 	- original version; created by h2xs 1.23 with options
 		-A -X -n Benchmark::OO
 
-0.02  Sat Sep 28 22:24:54 2013
-	- added pause and resume functions
-	- changed print_benchmark funtion to print result in tabular form
-	- update POD
